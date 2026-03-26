@@ -1,0 +1,83 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║                    🚀 PUSH YOUR PROJECT NOW 🚀                            ║
+║                                                                            ║
+║                  Simple 2-Step Process to Upload                          ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+
+STEP 1: CREATE EMPTY REPOSITORY ON GITHUB
+═══════════════════════════════════════════════════════════════════════════
+
+1. Go to: https://github.com/new
+
+2. Fill ONLY these fields:
+   - Repository name: event-booking-platform
+   - Visibility: Public
+
+3. Click: "Create repository" (green button)
+
+4. DO NOT add README, .gitignore, or license
+   (Leave all checkboxes UNCHECKED)
+
+
+STEP 2: RUN THIS COMMAND IN POWERSHELL
+═══════════════════════════════════════════════════════════════════════════
+
+After creating the repository, run this ONE command:
+
+git push -u origin main
+
+
+THAT'S IT! Your files will upload!
+
+
+═══════════════════════════════════════════════════════════════════════════
+
+WHAT HAPPENS
+═══════════════════════════════════════════════════════════════════════════
+
+After you run "git push -u origin main":
+- All your files upload to GitHub
+- Takes 1-2 minutes
+- You'll see progress in PowerShell
+- When done, you'll see: "Branch 'main' set up to track 'origin/main'"
+
+
+═══════════════════════════════════════════════════════════════════════════
+
+YOUR GITHUB LINK WILL BE
+═══════════════════════════════════════════════════════════════════════════
+
+https://github.com/chimakurthivarunkumar01/event-booking-platform
+
+
+═══════════════════════════════════════════════════════════════════════════
+
+QUICK CHECKLIST
+═══════════════════════════════════════════════════════════════════════════
+
+Step 1:
+- [ ] Go to https://github.com/new
+- [ ] Enter: event-booking-platform
+- [ ] Choose: Public
+- [ ] Click: Create repository
+- [ ] DO NOT add README/gitignore
+
+Step 2:
+- [ ] Open PowerShell in project folder
+- [ ] Run: git push -u origin main
+- [ ] Wait for upload to complete
+
+
+═══════════════════════════════════════════════════════════════════════════
+
+DONE! 🎉
+
+Your project is now on GitHub!
+
+Link: https://github.com/chimakurthivarunkumar01/event-booking-platform
+
+Submit this link to your company!
+
